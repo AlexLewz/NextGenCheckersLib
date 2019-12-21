@@ -1,12 +1,12 @@
 # NextGenCheckersLib
 Library for checkers
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+Shield: [![CC BY NC ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
-This work is licensed under a [Attribution-NonCommercial-NoDerivatives 4.0 International
-License][cc-by].
+This work is licensed under a [Creative Commons License Attribution-NonCommercial-NoDerivatives 4.0 International
+License][cc-by-nc-nd].
 this license applies to all files in this repository.
-[![CC BY 4.0][cc-by-image]][cc-by]
+[![CC BY NC ND 4.0][cc-by-nc-nd-image]][cc-by-nc-nd]
 
-[cc-by]: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
