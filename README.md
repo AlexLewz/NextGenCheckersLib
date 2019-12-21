@@ -1,0 +1,2 @@
+# NextGenCheckersLib
+Library for checkers
